@@ -1334,10 +1334,10 @@ electron-run@^2.0.1:
     process-exists "^4.0.0"
     vite "^2.1.5"
 
-electron@^12.0.4:
-  version "12.0.4"
-  resolved "https://registry.npmjs.org/electron/-/electron-12.0.4.tgz#c2ca4710d0e4da7db6d31c4f55777b08bfcb08e5"
-  integrity sha512-A8Lq3YMZ1CaO1z5z5nsyFxIwkgwXLHUwL2pf9MVUHpq7fv3XUewCMD98EnLL3DdtiyCvw5KMkeT1WGsZh8qFug==
+electron@^12.0.9:
+  version "12.0.9"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-12.0.9.tgz#d582afa8f6fc0c429606f0961a4c89b376994823"
+  integrity sha512-p5aEt1tIh/PYjwN+6MHTc5HtW529XR9r4Qlj9PPcSb5ubkotSsS0BtWJoRPhDenSAN8sgHk3sbZLxXPJtdnRYA==
   dependencies:
     "@electron/get" "^1.0.1"
     "@types/node" "^14.6.2"
